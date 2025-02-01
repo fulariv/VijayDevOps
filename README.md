@@ -15,4 +15,4 @@
 - 💻 Advanced Kubernetes & Observability  
 
 📫 **Connect with me:**  
-[LinkedIn](https://www.linkedin.com/in/vijaykumar-fulari/) | [GitHub_(https://github.com/fulariv)]  
+[LinkedIn](https://www.linkedin.com/in/vijaykumar-fulari/) | [GitHub](https://github.com/fulariv)  
