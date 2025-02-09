@@ -11,7 +11,7 @@
 - Scripting: Bash, Python 🐍, Go  
 
 💡 **Currently Learning:**  
-- 📖 CK Certification  
+- 📖 CKA Certification  
 - 💻 Advanced Kubernetes & Observability  
 
 📫 **Connect with me:**  
